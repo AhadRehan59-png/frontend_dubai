@@ -118,7 +118,7 @@ export default function DrawCard({
 
             <p className="mt-3 flex items-center justify-center gap-1 text-xs text-muted">
               <Info size={12} />
-              *EasyPaisa, JazzCash, Card &amp; Bank Transfer
+              *Secure payment via Stripe
             </p>
 
             <div className="mt-4 flex gap-2">
